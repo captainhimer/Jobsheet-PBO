@@ -19,7 +19,7 @@ ADA 2 OBJEK YAITU SetMerk DAN SetNama DAN DI BAWAH MAIN ITU ADALAH METHOD UNTUK 
 # TUGAS
 
                                                      TUGAS EKSPLORASI
-![Alt text](https://github.com/captainhimer/Jobsheet-PBO/blob/master/latian%20luas%20balok.jpg)
+![Alt text](https://github.com/captainhimer/Jobsheet-PBO/blob/master/tugas%20eksplorasi.jpg)
 
 PADA TUGAS INI JIKA MENGGUNAKAN TIPE DATA FLOAT AKAN ERROR KARENA MELEBIHI MINUMUM INPUTAN DATA FLOAT, JADI HARUS MEMAKAI DOUBLE AGAR TIDAK ERROR
 
